@@ -1,8 +1,8 @@
 ## welcome to python 
 
 ```
-print("mansi")
+print("mansi && sangam")
 ```
 output:
-mansi
+mansi && sangam
 
